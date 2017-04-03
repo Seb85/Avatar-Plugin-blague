@@ -5,8 +5,6 @@ require('colors');
 exports.action = function(data, callback){
 	
 	info("Blague du jour from:", data.client.yellow);
-	var maxJokeId = Config.modules.blague.max_joke_id;
-	var nbRetry = 0;
 	var url = 'http://www.takatrouver.net/blagues/index.php?id=' + Math.floor(Math.random() * 1300 + 1);
 	http_request(url)
 	.then(body => scraper(body))
