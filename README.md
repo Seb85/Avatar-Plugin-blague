@@ -4,6 +4,7 @@ Présentation
 Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur)
 
 Variante du plugin blague officiel
+
 Raconte une blague aléatoire du site http://www.takatrouver.net/blagues/
 
 
