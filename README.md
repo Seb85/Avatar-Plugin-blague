@@ -1,4 +1,4 @@
-Présentation
+Blague
 =========
 
 Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur)
