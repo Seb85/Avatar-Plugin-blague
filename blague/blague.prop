@@ -4,6 +4,7 @@
 			"description": "Raconte la blague du jour",
 			"exemples": "Fais une blague, raconte une blague, dis une histoire",
 			"version": "1.0",
+			"max_joke_id": 1300,
 			"rules" : ["joke","story"]
 		}
 	}
