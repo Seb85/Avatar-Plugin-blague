@@ -4,7 +4,7 @@
 			"description": "Raconte la blague du jour",
 			"exemples": "Fais une blague, raconte une blague, dis une histoire",
 			"version": "1.0",
-			"rules" : ["joke","story"]
+			"rules" : ["joke"]
 		}
 	}
 }
