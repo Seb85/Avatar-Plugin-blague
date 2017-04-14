@@ -2,7 +2,7 @@
 	"modules" : { 
 		"blague"  : {
 			"description": "Raconte la blague du jour",
-			"exemples": "Fais une blague, raconte une blague, dis une histoire",
+			"exemples": "Fais une blague, raconte une blague",
 			"version": "1.0",
 			"rules" : ["joke"]
 		}
